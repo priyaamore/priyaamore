@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there 👋I'm Priya More
 
-<!--
-**priyaamore/priyaamore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🔭 I’m currently working on  MERN Stack projects and improving my full-stack development skills.
+ 🌱 I’m currently learning Data Structures & Algorithms, Cloud Computing, and AI fundamentals.
+👯 I’m looking to collaborate on Open Source, MERN Stack, and Web Development projects.
+💡 Skills:
+   Java,JavaScript,Node.js, Express.js, MongoDB,React,HTML, CSS, SQL, Git & GitHub
+📫 How to reach me: priyamore8446@gmail.com
+
+
