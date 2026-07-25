@@ -2,7 +2,6 @@
 
 🎓 Computer Engineering Student
 
- * 🔭 I’m currently working on  MERN Stack projects and improving my full-stack development skills.
  * 🌱 I’m currently learning Data Structures & Algorithms, Cloud Computing, and AI fundamentals.
  * 💕 I’m looking to collaborate on Open Source, MERN Stack, and Web Development projects.
  * 💡 Skills:
