@@ -33,4 +33,6 @@
 
 ## 📊 GitHub Status
 
+## 📊 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyaamore&show_icons=true&theme=default)
