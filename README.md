@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi there 👋I'm Priya More<br><br>Computer Engineering Student<br><br>🌱 I’m currently learning Data Structures & Algorithms, Cloud Computing, and AI fundamentals.<br>💕 I’m looking to collaborate on Open Source, MERN Stack, and Web Development projects.<br>💡 Skills: Java,JavaScript,Node.js, Express.js, MongoDB,React,HTML, CSS, SQL, Git & GitHub<br>📫 How to reach me: priyamore8446@gmail.com
+# Hi there 👋I'm Priya More
+<br><br>Computer Engineering Student<br><br>🌱 I’m currently learning Data Structures & Algorithms, Cloud Computing, and AI fundamentals.<br>💕 I’m looking to collaborate on Open Source, MERN Stack, and Web Development projects.<br>💡 Skills: Java,JavaScript,Node.js, Express.js, MongoDB,React,HTML, CSS, SQL, Git & GitHub<br>📫 How to reach me: priyamore8446@gmail.com
 
 
 ## 🌐 Socials:
