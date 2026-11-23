@@ -1,14 +1,85 @@
 # Hi there 👋I'm Priya More
-<br>🌱 I’m currently learning Data Structures & Algorithms, Cloud Computing, and AI fundamentals.<br>💕 I’m looking to collaborate on Open Source, MERN Stack, and Web Development projects.<br>💡 Skills: Java,JavaScript,Node.js, Express.js, MongoDB,React,HTML, CSS, SQL, Git & GitHub<br>📫 How to reach me: priyamore8446@gmail.com
+## 🚀 About Me
+- 🎓 Third-year Computer Engineering student at  (NMIET)..
+- 🌱 Learning **DSA in JAVA**, **Full Stack Web Development** (MERN).
+- 🧩 DSA & Problem-Solving Enthusiast.
+- 🚀 Interested in Open Source & Hackathons
+   <!-- 👨‍💻 Full-stack developer with strong grip on **MERN Stack** and **Data Structures & Algorithms**.-->
+<!-- 📫 Reach me at **priyamore8446@gmail.com**--> 
+  
+## 🛠️ Tech Stack
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priya-more-8220aa32a/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priyamore8446@gmail.com)
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+### 💻 Programming Languages
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### 🌐 Web Development 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Typescript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel)
+![Convex](https://img.shields.io/badge/Convex-blue?style=flat-square&logo=convex)
+
+<!-- ## 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=priyaamore&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
+
+![](https://streak-stats.demolab.com/?user=mayurZope06&theme=tokyonight&hide_border=true)<br/>
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=mayurZope06&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=priyaamore&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=priyaamore&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=priyaamore&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=priyaamore&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+![](https://streak-stats.demolab.com/?user=priyaamore&theme=material-palenight&hide_border=false)<br/>
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=priyaamore&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 🧩 Coding Profiles
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/priya-more/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/priyamore)
+[![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/priyamore)
+
+## 📬 Connect With Me
+
+<p align="left">
+  <a href="www.linkedin.com/in/priya-more-8220aa32a/" target="_blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
+  <a href="mailto:priyamore8446@gmail.com" target="_blank">
+    <img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" />
+  </a>
+</p>
+
+⭐️ **Thanks for visiting! Let’s connect and build together.**
+
+<!--
+**priyaamore/priyaamore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
 
